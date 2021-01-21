@@ -1,0 +1,4 @@
+python dump-database.py content_annotation_mh
+python dump-database.py content_annotation_mh_sub_cat
+python dump-database.py content_annotation_mh_new
+python dump-database.py content_annotation_mh_sub_cat_new
